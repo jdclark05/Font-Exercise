@@ -1,0 +1,29 @@
+h1{
+    font-style: bold;
+    text-align: left;
+    background-color: black;
+}
+
+.firstWord{
+    color: white;
+}
+
+.secondWord{
+    color: cyan;
+}
+
+h2{
+    text-align: center;
+    font-style: italic;
+    font-weight: lighter;
+    color: white;
+    background-color: purple;
+}
+
+h3{
+    text-align: right;
+    font-style: normal;
+    font-weight: lighter;
+    color: purple;
+    background-color: skyblue;
+}
